@@ -1,0 +1,8 @@
+*.pt
+the-daily*
+uno.*
+.idea
+__pycache__
+wavs-train
+wavs-val
+chunks
